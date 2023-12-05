@@ -10768,8 +10768,8 @@ textarea.form-control-lg {
 .btn-rounded span {
   position: absolute;
   background-color: #9926f0;
-  width: 2.5rem;
-  height: 2.5rem;
+  width: 2rem;
+  height: 2rem;
   top: 50%;
   right: 5px;
   transform: translateY(-50%);
@@ -10778,7 +10778,7 @@ textarea.form-control-lg {
 .btn-rounded span i {
   color: #fff;
   font-size: 1rem;
-  line-height: 2.5rem;
+  line-height: 2.1rem;
 }
 .btn-rounded:hover {
   background: linear-gradient(to right, rgba(153, 38, 240, 0.95), rgba(209, 34, 227, 0.95));
